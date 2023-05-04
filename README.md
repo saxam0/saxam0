@@ -23,6 +23,6 @@ Do **follow me** ! I am sure you won't regret XD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshD3)](https://github.com/saxam0/github-readme-stats)
 
 
-[twitter]: https://twitter.com/saxam0
+[twitter]: https://twitter.com/saxam0/
 [instagram]: https://www.instagram.com/saxam.0/
 [linkedin]: https://www.linkedin.com/in/saksham-singh-7aa1a4223/
