@@ -1,6 +1,6 @@
 # Hi I am Saksham
 
-📚 I am currently learning anything and everything that I can 😂. 
+📚 I am currently learning anything that I can 😂. 
 
 🏆 I am new to open soure and recently completed **Hacktoberfest 2022** and would love to contribute to open source organisations !
 
@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Do **follow me** ! I am sure you won't regret XD
+Do **follow me** ! I am sure you won't regret it
 
 ---
 ## Here's my Github Statistics
