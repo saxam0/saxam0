@@ -17,10 +17,10 @@ Do **follow me** ! I am sure you won't regret it
 ---
 ## Here's my Github Statistics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saxam0&show_icons=true&theme=radical)
+![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=saxam0&show_icons=true&theme=radical)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshD3)](https://github.com/saxam0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saxam0)](https://github.com/saxam0/github-readme-stats)
 
 
 [twitter]: https://twitter.com/saxam0/
