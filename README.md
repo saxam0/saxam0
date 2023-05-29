@@ -19,6 +19,7 @@ Do **follow me** ! I am sure you won't regret it
 
 ![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=saxam0&show_icons=true&theme=radical)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=saxam0&theme=radical&hide_border=false)
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saxam0)](https://github.com/saxam0/github-readme-stats)
 
