@@ -21,6 +21,9 @@ Do **follow me** ! I am sure you won't regret it
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saxam0&theme=radical&hide_border=false)
 ----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saxam0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saxam0)](https://github.com/saxam0/github-readme-stats)
 
 
