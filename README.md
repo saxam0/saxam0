@@ -2,7 +2,7 @@
 
 #### I am a CS third-year undergrad at Netaji Subhas University of Technology (NSUT), Delhi!
 
-📚 I am currently learning anything that I can. 
+📚 I am an open-source enthusiast with contributions to various projects on Git Hub. 
 
 🏆 I have recently completed **Hacktoberfest 2022** and **Hacksquad 2022** would love to contribute to open source organisations !
 
