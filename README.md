@@ -1,5 +1,7 @@
 # Hi I am Saksham
 
+#### I am a CS final year undergrad at NSUT, Delhi!
+
 📚 I am currently learning anything that I can . 
 
 🏆 I have recently completed **Hacktoberfest 2022** and would love to contribute to open source organisations !
