@@ -1,10 +1,10 @@
 # Hi I am Saksham
 
-#### I am a CS third year undergrad at Netaji Subhas University of Technology (NSUT), Delhi!
+#### I am a CS third-year undergrad at Netaji Subhas University of Technology (NSUT), Delhi!
 
-📚 I am currently learning anything that I can . 
+📚 I am currently learning anything that I can. 
 
-🏆 I have recently completed **Hacktoberfest 2022** and would love to contribute to open source organisations !
+🏆 I have recently completed **Hacktoberfest 2022** and **Hacksquad 2022** would love to contribute to open source organisations !
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ---
