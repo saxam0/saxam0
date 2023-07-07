@@ -1,6 +1,6 @@
 # Hi I am Saksham
 
-#### I am a CS final year undergrad at NSUT, Delhi!
+#### I am a CS third year undergrad at Netaji Subhas University of Technology (NSUT), Delhi!
 
 📚 I am currently learning anything that I can . 
 
