@@ -1,6 +1,6 @@
 # Hi I am Saksham
 
-#### I am a CS third-year undergrad at Netaji Subhas University of Technology (NSUT), Delhi!
+#### I am a CS final-year undergrad at Netaji Subhas University of Technology (NSUT), Delhi!
 
 📚 I am an open-source enthusiast with contributions to various projects on Git Hub. 
 
